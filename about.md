@@ -6,8 +6,8 @@ permalink: /about/
 
 ![Claude Lehmann](https://raw.githubusercontent.com/edualc/edualc.github.io/master/images/claude_lehmann.jpg "Claude Lehmann")
 
-* studying IT at [ZHAW](www.zhaw.ch)
-* working as a Software Engineer at [Squibble](www.squibble.me)
+* studying IT at [ZHAW](http://www.zhaw.ch)
+* working as a Software Engineer at [Squibble](http://www.squibble.me)
 
 ### Contact me
 

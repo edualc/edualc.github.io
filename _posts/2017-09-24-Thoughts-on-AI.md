@@ -6,6 +6,8 @@ categories:
   - Opinion
 ---
 
+*The following post is part of an assignment for the ZHAW course KI1 (Artificial Intelligence 1), given by [Thilo Stadelmann](http://stdm.github.io) during the autumn semester of 2017.*
+
 Lorem ipsum dolor sit amet, eu quo ipsum soluta, omnesque oportere ullamcorper vix id, sea omnes animal dolorem cu. Impedit interpretaris concludaturque his cu, congue iracundia elaboraret ius eu, odio oportere maluisset ne vel. Mei eu utamur labores, ne eros epicuri consequuntur sed, eros nonumy his et. Mundi iudicabit abhorreant id has, at indoctum inciderint referrentur his. Nam in eius accusam persecuti.
 
 Eos at doming accusam. Ne consul latine nam, vel quem everti et. Id eos nihil persius. Natum partem ea vel, has malis luptatum voluptatum ne. Cum illud iudico ut, mazim graeco quo in, nibh labores tacimates cu cum.

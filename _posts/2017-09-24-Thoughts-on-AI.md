@@ -28,10 +28,10 @@ there is reason for concern. Not only will AI at some point surpass our cognitiv
 ##### Question 1
 > Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 
-While we do not want AI to end up being a fish that cannot climb a tree, our perception of advancements in the field usually have us compare AI results by human standards. Should we really treat AI agents as a _human_ entity? Do agents have to replace us or is there a way to use them as enhancements?
+While we do not want any AI to end up being a fish that cannot climb a tree, our perception of advancements in the field usually have us compare AI results by human standards. Should we treat AI agents as a _human_ entity and hold it to our standards? Do agents have to replace us or is there a way to use them as enhancements?
 
 ##### Question 2
-Is human extinction an inevitable outcome of the emergence of any ASI (Artificial Superintelligence) or will the first ASI herald the start of an era of immortality?
+Is human extinction an inevitable outcome of the emergence of any ASI (Artificial Superintelligence) or will the first ASI herald the start of a golden age of immortality?
 
 ## Sources
 [Urban, 2015] Tim Urban, “[The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)”. 2015.

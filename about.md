@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# About
 
-### More Information
+![Claude Lehmann](https://github.com/edualc/edualc.github.io/master/images/claude_lehmann.jpg "Claude Lehmann")
 
-A place to include any other types of information that you'd like to include about yourself.
+* studying IT at [ZHAW](www.zhaw.ch)
+* working as a Software Engineer at [Squibble](www.squibble.me)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[edualc.lehmann@gmail.com](mailto:edualc.lehmann@gmail.com)

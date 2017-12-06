@@ -1,5 +1,5 @@
 ---
-title: "KI1: Thoughts on AI"
+title: "Thoughts on AI 1/2"
 layout: post
 categories:
   - ZHAW
@@ -25,31 +25,6 @@ Setting aside the whole aspect of *what **is** AI*, in the past few months a new
 Although researchers have made tremendous advances in medicine, it is highly unlikely that we will stumble over a recipe for immortality in the future. AI however might be at the brink of something that will change our lives in ways we cannot imagine. Think of an everyday struggle that the average ant has to deal with in its everyday life. Now try to deal with that issue as a human - all of a sudden, finding food or moving that leaf from A to B is not such a big deal anymore. Similarly, what we humans perceive as an incredibly difficult task might be about as difficult as adding 1+1 together for an ASI. All of a sudden, immortality or at least vast increases in life expectancy and quality of life are to be expected. For this reason alone, I say *[I welcome our new AI overlords](https://www.youtube.com/watch?v=MKx3JlTnHbc)*.
 
 Arguably, it will not be easy to develop an AGI safely and without flaws, but the benefits would be beyond our imagination.
-
----
-
-## Facts and Questions
-##### Fact 1
-Technological advancements in the recent years have made it possible that the raw calculation power equivalent to that of a human brain will be available to anyone for as low as 1000$ by 2025.
-
-##### Fact 2
-When comparing the intelligence of an ant, a chimp and a human, AI (Artificial Intelligence) is slowly closing the gap. While it might look "cute" how it struggles with menial tasks for a human, once AI surpasses human capabilities, understanding its cognitive abilities will be equivalent to teaching an ant about general relativity.
-
-##### Fact 3
-When looking at the different types of AI...
-* **_ANI_**: **A**rtificial **N**arrow **I**ntelligence, specialised in a single task
-* **_AGI_**: **A**rtificial **G**eneral **I**ntelligence, can do anything that a human can
-* **_ASI_**: **A**rtificial **S**uper**i**ntelligence, surpassing even the most gifted human minds
-
-...there is reason for concern. Not only will AI at some point surpass our cognitive abilities, but when it will, we will be able to understand its intelligence as much as an ant can understand about general relativity.
-
-##### Question 1
-> Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
-
-While we do not want any AI to end up being a fish that cannot climb a tree, our perception of advancements in the field usually have us compare AI results by human standards. Should we treat AI agents as a _human_ entity and hold it to our standards? Do agents have to replace us or is there a way to use them as enhancements?
-
-##### Question 2
-Is human extinction an inevitable outcome of the emergence of any ASI (Artificial Superintelligence) or will the first ASI herald the start of a golden age of immortality?
 
 ---
 

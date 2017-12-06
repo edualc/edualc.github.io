@@ -1,5 +1,5 @@
 ---
-title: [WIP] My data science cookbook
+title: "[WIP] My data science cookbook"
 layout: post
 categories:
   - Data Science

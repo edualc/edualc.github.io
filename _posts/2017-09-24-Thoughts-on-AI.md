@@ -1,5 +1,5 @@
 ---
-title: Thoughts on AI
+title: "KI1: Thoughts on AI"
 layout: post
 categories:
   - ZHAW

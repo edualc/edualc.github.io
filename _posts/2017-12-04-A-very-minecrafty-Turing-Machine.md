@@ -1,5 +1,5 @@
 ---
-title: A very minecraft-y Turing Machine
+title: "[WIP] THIN: A very minecraft-y Turing Machine"
 layout: post
 categories:
   - Minecraft

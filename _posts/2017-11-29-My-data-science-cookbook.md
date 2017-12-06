@@ -1,5 +1,5 @@
 ---
-title: My data science cookbook
+title: [WIP] My data science cookbook
 layout: post
 categories:
   - Data Science
@@ -8,7 +8,6 @@ categories:
 ---
 
 
-# my Data Science Cookbook
 This is my (probably everchanging) cookbook with notes, tips and the issues I faced as I try to tackle data science problems.
 
 ## Table of Contents

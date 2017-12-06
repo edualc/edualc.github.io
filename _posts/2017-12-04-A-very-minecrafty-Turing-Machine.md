@@ -26,7 +26,7 @@ Initially I had to try out different circuits in Minecraft using their Redstone 
 
 Minecraft's *Redstone Dust* offers a dust-like material that can be placed on top of any block in the Minecraft world, leaving behind a red line. It can be compared to copper strips on a board, transporting current (here called power levels). Redstone power levels are from 0 to 15, with 0 being not powered and 15 being fully powered. If a trail of redstone dust or any other block outputting a signal points into a block, that block radiates that power level to neighboring blocks reading from said block. Furthermore, redstone power decays at a rate of one per block travelled. There are exceptions where a signal strength can be kept at the same rate indefinitely, but this would involve much more complex wiring than just the regular Redstone dust.
 
-![Redstone Dust]({{ "/assets/claude_lehmann.jpg" | absolute_url }})
+![Redstone Dust]("../images/claude_lehmann.jpg" "Redstone Dust")
 [TODO: IMG Redstone Dusts](#)
 
 A *Redstone Torch* acts as an inverter if placed on a block or as a maximum level (15) power source.

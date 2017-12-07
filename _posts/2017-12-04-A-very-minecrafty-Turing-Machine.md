@@ -7,6 +7,8 @@ categories:
   - Turing Machine
 ---
 
+![Minecraft Turing machine](http://edualc.github.io/images/minecraft_turing_machine/overview.png)
+
 Back in spring 2016 I attended a course called THIN (theoretical IT) where as part of an assignment each student was given the task to build a working example of a Turing machine in any way, form or shape. If it ended up being a fully functional [Turing machine](https://en.wikipedia.org/wiki/Turing_machine), you got the full points. Most of my fellow classmates programmed their Turing machine either as a simple web app with a beautiful UI or they kept it as simple as possible using just the console output.
 
 There were two different approaches alltogether. Two students paired up wanting to build not just a working Turing machine, but an [universal Turing machine](https://en.wikipedia.org/wiki/Universal_Turing_machine). This means it not only could compute anything that a Turing machine could, but it would also be able to read its instructions from the given input. I don't want to go into too much detail, if you're interested in the difference, the [Wikipedia entry](https://en.wikipedia.org/wiki/Universal_Turing_machine) describes it pretty well.
@@ -16,10 +18,10 @@ The other approach is my own, which I want to describe further in this post. I s
 ---
 
 ## Basic Turing machine understanding
-#### Disclaimer
-To follow along with my explanations you should bring at least a basic understanding of a Turing machine. I will try to explain the nitty-gritty details concerning the Minecraft implementation but I'm probably not the best person to explain the Turing machine as a whole without leaving out some important details.
+> #### Disclaimer
+> To follow along with my explanations you should bring at least a basic understanding of a Turing machine. I will try to explain the nitty-gritty details concerning the Minecraft implementation but I'm probably not the best person to explain the Turing machine as a whole without leaving out some important details.
 
-Still, here a quick recap:
+Still, here is a quick recap:
 A Turing machine has a **tape** divided into **cells**. These cells contain **symbols** - for simplicity we can think of zeros and ones as in our computers. There is a **head** resting above one cell at a time that can scan which symbol is contained in it. The **state register** holds the current state of the machine and lastly there is an **instruction table** containing all the possible **transitions** from one state to another, according to the current cell's content. Every transitions either moves the head to the left or right - and that's it!
 
 ---
@@ -76,12 +78,10 @@ As for the head, Minecraft has a rail system using minecarts which can contain i
 ![Tape: Reading From Minecarts](http://edualc.github.io/images/minecraft_turing_machine/tape_reading_from_minecarts.png)
 > Tape: Reading signal strengths from minecarts
 
-Instead, I started focusing on the instruction table with all the programmable transitions:
+Instead, I started focusing on the instruction table with all the programmable transitions and this is where I had a breakthrough. By using Redstone lamps (blocks that emit light when powered with any Redstone signal) I could visually represent the input flowing through the instruction table. There was no need for a moving minecart anymore if I could just build small displays for each cell that would show both the current content and the head position.
 
 ![Instruction Table: Visually seeing a transition](http://edualc.github.io/images/minecraft_turing_machine/instruction_table_mechanic.png)
-> Instruction table: Visually seeing how an input signal travels through a transition
-
-This is where I had a breakthrough. By using Redstone lamps (blocks that emit light when powered with any Redstone signal) I could visually represent the input flowing through the instruction table. There was no need for a moving minecart anymore if I could just build small displays for each cell that would show both the current content and the head position.
+> Instruction table: Visually seeing how an input signal travels through a transition. As configured, the signal in the middle can travel down towards the left lamp but not the lamp on the right side.
 
 ---
 

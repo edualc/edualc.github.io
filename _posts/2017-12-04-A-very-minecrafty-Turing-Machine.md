@@ -34,30 +34,30 @@ Minecraft's **Redstone Dust** offers a dust-like material that can be placed on 
 
 A **Redstone Torch** acts as an inverter if placed on a block or as a maximum level (15) power source.
 
-[Redstone Torch](http://edualc.github.io/images/minecraft_turing_machine/redstone_torch.png)
+![Redstone Torch](http://edualc.github.io/images/minecraft_turing_machine/redstone_torch.png)
 > Redstone torch either powering dust or negating the input signal
 
 The **Redstone Repeater** is a block that takes an input power level and refreshes its power level back to 15 if the input was greater than 0.
 
-[Redstone Repeater](http://edualc.github.io/images/minecraft_turing_machine/redstone_repeater.png)
+![Redstone Repeater](http://edualc.github.io/images/minecraft_turing_machine/redstone_repeater.png)
 > Redstone repeater refreshes decaying signal
 
 The **Redstone Comparator** has a variatey of uses. Its main functionality is to compare the input with its side inputs and output the difference. There is a secondary option in using it where it acts as a subtractor.
 
-[Redstone Comparator](http://edualc.github.io/images/minecraft_turing_machine/redstone_comparator.png)
+![Redstone Comparator](http://edualc.github.io/images/minecraft_turing_machine/redstone_comparator.png)
 > Redstone comparator with uneven input signal strengths
 
 There are other minor redstone blocks, such as the **Lever** which can be toggled to either output a full signal (15) or no signal at all (0) or the **Button** which can be pressed to output a short pulse.
 
-[Pressure Plate, Button and Lever](http://edualc.github.io/images/minecraft_turing_machine/redstone_pressure_plate_button_lever.png)
+![Pressure Plate, Button and Lever](http://edualc.github.io/images/minecraft_turing_machine/redstone_pressure_plate_button_lever.png)
 > Pressure plate, button and lever
 
 Using the blocks above one can combine them to build small contraptions which act as T-Flip-Flops, Timer Circuits, etc.
 
-[Redstone AND Gate](http://edualc.github.io/images/minecraft_turing_machine/redstone_and_gate.png)
+![Redstone AND Gate](http://edualc.github.io/images/minecraft_turing_machine/redstone_and_gate.png)
 > AND Gate (inputs are on the top side, output on the bottom side)
 
-[Redstone OR Gate](http://edualc.github.io/images/minecraft_turing_machine/redstone_or_gate.png)
+![Redstone OR Gate](http://edualc.github.io/images/minecraft_turing_machine/redstone_or_gate.png)
 > OR Gate (note how redstone signals can only travel through a repeater in one way and not the other)
 
 Mumbo Jumbo has [a great video](https://www.youtube.com/watch?v=9EY_XoEImjM) on the basics of Redstone logic gates - I can highly recommend it!
@@ -68,17 +68,17 @@ Mumbo Jumbo has [a great video](https://www.youtube.com/watch?v=9EY_XoEImjM) on 
 
 The tape needs to have cells with content. I originally intended to use containers (such as chests) from which a Redstone signal could be read. Different amount of inputs would result in different signal strengths to show all the possible symbols on the tape. Theoretically it is possible, but from a realistic standpoint, I realized it would only be viable for a very limited amount of symbols and I didn't know at the time how many states, symbols or transitions I would end up with.
 
-[Tape: Reading From Chests](http://edualc.github.io/images/minecraft_turing_machine/tape_reading_from_chests.png)
+![Tape: Reading From Chests](http://edualc.github.io/images/minecraft_turing_machine/tape_reading_from_chests.png)
 > Tape: Reading signal strengths from chests (note the different signal strengths in the brightness of the dust)
 
 As for the head, Minecraft has a rail system using minecarts which can contain items. I would've loved to use them to visually represent a moving head across the tape, but loading and unloading the minecart with precision seemed unfeasible.
 
-[Tape: Reading From Minecarts](http://edualc.github.io/images/minecraft_turing_machine/tape_reading_from_minecarts.png)
+![Tape: Reading From Minecarts](http://edualc.github.io/images/minecraft_turing_machine/tape_reading_from_minecarts.png)
 > Tape: Reading signal strengths from minecarts
 
 Instead, I started focusing on the instruction table with all the programmable transitions:
 
-[Instruction Table: Visually seeing a transition](http://edualc.github.io/images/minecraft_turing_machine/instruction_table_mechanic.png)
+![Instruction Table: Visually seeing a transition](http://edualc.github.io/images/minecraft_turing_machine/instruction_table_mechanic.png)
 > Instruction table: Visually seeing how an input signal travels through a transition
 
 This is where I had a breakthrough. By using Redstone lamps (blocks that emit light when powered with any Redstone signal) I could visually represent the input flowing through the instruction table. There was no need for a moving minecart anymore if I could just build small displays for each cell that would show both the current content and the head position.

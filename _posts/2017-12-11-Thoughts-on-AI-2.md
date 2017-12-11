@@ -4,8 +4,7 @@ layout: post
 categories:
   - ZHAW
   - Opinion
-tags:
-  - draft
+draft: true
 ---
 
 *The following post is an assignment for the ZHAW course KI1 (Artificial Intelligence), given by [Thilo Stadelmann](http://stdm.github.io) during the autumn semester of 2017.*

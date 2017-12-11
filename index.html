@@ -3,7 +3,7 @@
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      {% if post.draft %}
+      {% if post.draft == true %}
         <!-- This is a draft. Allow blog to be displayed in draft blog lists. Use in blog page layout to display a warning that the page is a draft. -->
       {% else %}
         <h1>

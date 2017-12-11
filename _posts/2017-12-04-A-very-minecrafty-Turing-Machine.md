@@ -5,6 +5,7 @@ categories:
   - Minecraft
   - ZHAW
   - Turing Machine
+published: false
 ---
 
 ![Minecraft Turing machine](http://edualc.github.io/images/minecraft_turing_machine/overview.png)

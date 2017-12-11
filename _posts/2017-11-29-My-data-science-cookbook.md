@@ -5,7 +5,8 @@ categories:
   - Data Science
   - Python
   - kaggle
-draft: true
+tags:
+  - draft
 ---
 
 

@@ -4,7 +4,7 @@ layout: post
 categories:
   - ZHAW
   - Opinion
-published: false
+draft: true
 
 ---
 

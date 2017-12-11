@@ -3,9 +3,7 @@
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      {% if post.draft == true %}
-        <!-- This is a draft. Allow blog to be displayed in draft blog lists. Use in blog page layout to display a warning that the page is a draft. -->
-      {% else %}
+      {% if post.draft != true %}
         <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </h1>

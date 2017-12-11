@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![Claude Lehmann](https://raw.githubusercontent.com/edualc/edualc.github.io/master/images/claude_lehmann.jpg "Claude Lehmann"){:height="300px"}
+<img style="float: right; height: 200px;" src="https://raw.githubusercontent.com/edualc/edualc.github.io/master/images/claude_lehmann2.jpg" />
 
-* studying IT at [ZHAW](http://www.zhaw.ch)
-* working as a Software Engineer at [Squibble](http://www.squibble.me)
-
-### Contact me
-
-[edualc.lehmann@gmail.com](mailto:edualc.lehmann@gmail.com)
+Had my first work experience in a civil engineering firm in charge of infrastructure projects in Switzerland. Always had a flair and passion for complex problem solving and mathematics. Now working part-time as a Software Engineer at [Squibble](https://squibble.me) and studying at [ZHAW](http://www.zhaw.ch) for my bachelor's degree in computer science.

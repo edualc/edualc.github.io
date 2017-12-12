@@ -19,13 +19,18 @@ Tim Urban's *[The AI Revolution: The Road to Superintelliengece](https://waitbut
 
 *Is the sheer amount of functions and the immense complexity of each and every function in such a way that one big AI system could do all those things that our brain already does?* 
 
+I have a hard time wrapping my head around an AGI agent. What is its motivation? Compared to my human brain, I feel my motivation rise and decline with mood swings, hunger and a plethora of other reasons, but an AGI should in theory run 24/7 at the same motivation level. Furthermore 
 - Example: driving in the car, can view signals, stay inside road borders, ... but also realize time of day, weather, people, "personal kinks and issues" like number patterns in license plates ,...
 
-All that being said, I still believe and hope that one day there will be a working artificial *general* intelligence agent. Not from a self-destructive desire or the wish to play god, but because it would mean someone managed to build an AI system that can *teach*. Why is that such a milestone? Well, current AI implementations resolve around pattern finding or "clever" searching all the possible solutions. This has very little to do with intelligence in my opinion. Now if an AI was to teach a human a new concept it would mean the AI actually understood the concept (and by that a vastly more generalized version of a problem). It would 
+All that being said, I still believe and hope that one day there will be a working artificial *general* intelligence agent. Not from a self-destructive desire or the wish to play god, but because it would mean someone managed to build an AI system that can *teach*. Why is that such a milestone? Well, current AI implementations resolve around pattern finding or "clever" searching all the possible solutions. This has very little to do with intelligence in my opinion. Now if an AI was to teach a human a new concept it would mean the AI actually understood the concept (and by that a vastly more generalized version of a problem). It would entail 
 
 
 
 Teaching
+
+> "As soon as it works, no one calls it AI any more." - John McCarthy
+
+Occam's razor and even the ancient Greeks had the notion that a solution must be as simple as possible.
 
 
 

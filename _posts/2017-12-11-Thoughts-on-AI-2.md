@@ -32,7 +32,8 @@ Teaching
 
 Occam's razor and even the ancient Greeks had the notion that a solution must be as simple as possible.
 
-
+- We project us onto AI, even though AI are not taking over our pockets.
+- Putting all the functions in a box doesn't make it human.
 
 
 - still think that it is possible to eventually build an AGI

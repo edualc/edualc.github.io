@@ -1,5 +1,5 @@
 ---
-title: "[WIP] Thoughts on AI 2/2"
+title: "Thoughts on AI 2/2"
 layout: post
 categories:
   - ZHAW

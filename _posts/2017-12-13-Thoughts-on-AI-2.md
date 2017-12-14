@@ -9,7 +9,7 @@ draft: false
 
 *The following post is an assignment for the ZHAW course KI1 (Artificial Intelligence), given by [Thilo Stadelmann](http://stdm.github.io) during the autumn semester of 2017.*
 
-*This assignment is a follow up exercise where each student is given the task to write a second blog post and revisit opinions as well as provide a reply to the [first blog post](../thoughts-on-ai).*
+*This assignment is a follow up exercise where each student is given the task to write a second blog post and revisit opinions as well as provide a reply to the [first blog post](../Thoughts-on-AI).*
 
 ---
 

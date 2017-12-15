@@ -27,7 +27,7 @@ Is AlphaGo intelligent, just because it found a move that is neither played by h
 
 At the end of this semester, I strongly feel that with every claim for a real *intelligent* AI agent, one must look at it in detail and verify that it is not just another clever algorithm, which is why I am amused by John McCarthy's quote:
 
-> *"As soon as it works, no one calls it AI anymore."
+> "As soon as it works, no one calls it AI anymore." [1]
 
 When reading Tim Urban's article at the beginning of the semester, his claims seemed reasonable and - for an uninformed mind - logical. While the conclusions he draws are still the same, my views have been influenced by the insights gained during the KI1 course. I still believe that one day there will be an AGI agent, but I am more careful with an estimate. If I learned one thing, the logarithmic scale is *unnatural* und any predictions might fall short like Moore's Law in the recent years.
 
@@ -37,3 +37,5 @@ When reading Tim Urban's article at the beginning of the semester, his claims se
 [Brooks, 2017] Brooks Rodney, “[The Seven Deadly Sins of AI Predictions](https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-predictions/)”. 2017.
 
 [Urban, 2015] Tim Urban, “[The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)”. 2015.
+
+[1] attributed to John McCarthy

@@ -13,7 +13,7 @@ draft: false
 
 ---
 
-A few months ago, I ventured into the first artificial intelligence lecture, only partially knowing what to expect. I assumed I would be confronted with algorithms, problem solving and possibly the need for life insurance. Instead, this semester demonstrated that the name Artificial Intelligene is a catchy yet unfavorable name, while "algorithms for complex computer problems" would have been much less of a hype magnet.
+A few months ago, I ventured into the first artificial intelligence lecture, only partially knowing what to expect. I assumed I would be confronted with algorithms, problem solving and possibly the need for life insurance. Instead, this semester demonstrated that the name Artificial Intelligence is a catchy yet unfavorable name, while "algorithms for complex computer problems" would have been much less of a hype magnet.
 
 Tim Urban's *[The AI Revolution: The Road to Superintelliengece](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)* painted a very optimistic "the end is nigh(-ish)" picture with the end of humanity in close proximity. Its writing is catchy, but how trustworthy is the information given? Recent years have shown that AI programs are capable of solving incredibly complex tasks both faster and better than humans ever could. Adding small adjustments to these problems however would need a complete overhaul for the AI system that solved it. The question we need to ask ourselves is:
 
